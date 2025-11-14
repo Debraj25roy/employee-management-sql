@@ -70,16 +70,5 @@ employee-management-sql/
 
 **Skills Demonstrated:** SQL (DDL/DML), data modeling, joins, aggregations, basic ETL concepts, documentation.
 
-**How to Present in Interviews:**
-- Explain the self-referencing foreign key pattern for manager relationships.
-- Walk through one or two SQL queries (e.g., self-join to list manager names).
-- Discuss how you would scale the schema (normalize departments, add projects table).
-
-## Future Improvements
-- Add departments table and enforce referential integrity.
-- Add stored procedures for common HR tasks.
-- Populate with 500 synthetic records for analytics practice.
-- Build a Power BI dashboard or a small web frontend.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
