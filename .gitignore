@@ -1,0 +1,6 @@
+*.sql.gz
+*.sql
+*.log
+*.sqlite
+.DS_Store
+.env
