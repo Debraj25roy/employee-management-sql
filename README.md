@@ -70,5 +70,3 @@ employee-management-sql/
 
 **Skills Demonstrated:** SQL (DDL/DML), data modeling, joins, aggregations, basic ETL concepts, documentation.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
