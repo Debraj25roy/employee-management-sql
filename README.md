@@ -29,11 +29,11 @@ This repository simulates a small corporate employee database with hierarchical 
 
 ## Demo Screenshots
 <p align="center">
-  <img src="screenshot_query.png" alt="query output" width="70%"/>
+  <img src="Employee count.png" alt="query output" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="screenshot_salary.png" alt="salary output" width="70%"/>
+  <img src="Highest salary.png" alt="salary output" width="70%"/>
 </p>
 
 ## Features
